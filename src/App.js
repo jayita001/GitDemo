@@ -14,6 +14,7 @@ class App extends Component {
     return (
       <div>
       <Routing/>
+	  <h1>Test</h1>
         {/* <h1>Hello World</h1>
         <h3>This is my root component.</h3>
         <p>{10+20}</p>
@@ -24,6 +25,7 @@ class App extends Component {
         Line 2
         Line 3 */}
       </div>
+	  
     );
   }
 }
